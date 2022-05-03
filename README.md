@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonçalves Freitas</h1>
-<h3 align="center">A passionate musician and programmer from São Paulo, Brazil</h3>
+<h3 align="center">A programmer from São Paulo - Brazil passionate about music</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" /> </p>
 
