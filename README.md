@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonçalves Freitas</h1>
 <h3 align="center">A programmer from São Paulo - Brazil passionate about music</h3>
 
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=gabrielgoncalfreitas&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" /> </p>
 
 <img align="center" src="snake.svg">
 
