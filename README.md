@@ -16,7 +16,9 @@
 <p align="center"> <img align="center" src="snake.svg"> </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"> </p>
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+</p>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgoncalfreitas&theme=dark&hide_border=true"> </p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> </p>
 
@@ -28,6 +30,3 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center"> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </p>
-
-<h3 align="center">😂 Random Dev Meme</h3>
-<p align="center"> <img align="center" src="https://random-memer.herokuapp.com/"> </p>
