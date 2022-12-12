@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonçalves Freitas</h1>
 <h3 align="center">A programmer from São Paulo - Brazil passionate about music</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" /> </p>
-
-<p align="center"> <img align="center" src="snake.svg"> </p>
-
-<h1 align="center">📊 GitHub Stats:</h1>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"> </p>
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgoncalfreitas&theme=dark&hide_border=true"> </p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" />
+</p>
 
 <h1 align="center">🌐 Socials:</h1>
 <p align="center">
@@ -17,6 +12,13 @@
 <a href="https://instagram.com/gabrielgoncalfreitas"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" > </a> 
 <a href="https://linkedin.com/in/gabriel-gonçalves-freitas-51177524"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" > </a> 
 </p>
+
+<p align="center"> <img align="center" src="snake.svg"> </p>
+
+<h1 align="center">📊 GitHub Stats:</h1>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgoncalfreitas&theme=dark&hide_border=true"> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> </p>
 
 <h1 align="center">💻 Tech Stack:</h1>
 <p align="center">
