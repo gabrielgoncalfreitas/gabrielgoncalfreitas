@@ -10,7 +10,7 @@
 <a href="htttps://discord.gg/GabrielFreitas#8928"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" > </a>
 <a href="https://facebook.com/gabriel.goncal.freitas"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" > </a> 
 <a href="https://instagram.com/gabrielgoncalfreitas"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" > </a> 
-<a href="https://linkedin.com/in/gabriel-gonçalves-freitas-51177524"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" > </a> 
+<a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-freitas-511775242/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" > </a> 
 </p>
 
 <p align="center"> <img align="center" src="snake.svg"> </p>
