@@ -1,5 +1,5 @@
 <h1 align="center">
-Why do I need to be another like the you?
+Why do I need to be another like YOU?
 </h1>
 
 <br/><br/><br/>
