@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 Why do I need to be another like the you?
-</p>
+</h1>
 
 <br/><br/><br/>
 
