@@ -1,4 +1,10 @@
 <p align="center">
+Why do I need to be another like the you?
+</p>
+
+<br/><br/><br/>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" />
 </p>
 
