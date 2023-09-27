@@ -13,5 +13,5 @@ Do I need to be another like YOU?
 </p>
 
 <p align="center"> 
-  ![gabrielgoncalfreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </p>
