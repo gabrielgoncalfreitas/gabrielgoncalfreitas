@@ -5,7 +5,7 @@ Do I need to be another like YOU?
 <br/><br/><br/>
 
 <p align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" />
 </p>
 
 <p align="center">
