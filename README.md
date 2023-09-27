@@ -5,11 +5,13 @@ Do I need to be another like YOU?
 <br/><br/><br/>
 
 <p align="center">
-![gabrielgoncalfreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-freitas-511775242/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" > </a> 
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"> </p>
+<p align="center"> 
+  ![gabrielgoncalfreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+</p>
