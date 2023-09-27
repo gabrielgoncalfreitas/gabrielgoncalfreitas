@@ -5,7 +5,7 @@ Do I need to be another like YOU?
 <br/><br/><br/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gabrielgoncalfreitas&label=Profile%20views&color=000000&style=flat" alt="gabrielgoncalfreitas" />
+![gabrielgoncalfreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalfreitas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 <p align="center">
